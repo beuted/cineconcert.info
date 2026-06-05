@@ -9,18 +9,20 @@ export const VIDEOS = {
   },
 }
 
+const img = (file) => `${import.meta.env.BASE_URL}images/${file}`
+
 export const IMAGES = {
-  logo: 'https://www.cineconcert.info/wp-content/uploads/2016/09/logo.png',
-  logoWhite: 'https://www.cineconcert.info/wp-content/uploads/2016/09/logoblanctransparent.png',
-  slider1: 'https://www.cineconcert.info/wp-content/uploads/2022/07/slider2.jpg',
-  slider2: 'https://www.nurdcartoon.com/wordpress/wp-content/uploads/2016/09/couv2.jpg',
-  parisQuiDort: 'https://www.cineconcert.info/wp-content/uploads/2016/09/paris-qui-dort-large.jpg',
-  parisQuiDortHeader: 'https://www.cineconcert.info/wp-content/uploads/2016/09/paris-qui-dort.jpg',
-  septAns: 'https://www.cineconcert.info/wp-content/uploads/2016/09/Sept-ans-de-malheur_zpsgom1xcgx-e1719830931569.jpg',
-  septAnsHeader: 'https://www.cineconcert.info/wp-content/uploads/2016/09/Capture-d\u2019e\u0301cran-2016-09-26-a\u0300-12.13.43.png',
-  sabine: 'https://www.cineconcert.info/wp-content/uploads/2016/09/MG_1662bis-2.jpg',
-  isabelle: 'https://www.cineconcert.info/wp-content/uploads/2016/09/IMG_0344-2.jpg',
-  marie: 'https://www.cineconcert.info/wp-content/uploads/2016/09/marie-tournemouly.jpg',
+  logo: img('logo.png'),
+  logoWhite: img('logo-white.png'),
+  slider1: img('slider1.jpg'),
+  slider2: img('slider2.jpg'),
+  parisQuiDort: img('paris-qui-dort-large.jpg'),
+  parisQuiDortHeader: img('paris-qui-dort.jpg'),
+  septAns: img('sept-ans.jpg'),
+  septAnsHeader: img('sept-ans-header.png'),
+  sabine: img('sabine.jpg'),
+  isabelle: img('isabelle.jpg'),
+  marie: img('marie.jpg'),
 }
 
 export const heroSlider = {

@@ -1,0 +1,1033 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>
+<html class="ie6" lang="ja"> <![endif]-->
+<!--[if IE 7]>
+<html class="i7" lang="ja"> <![endif]-->
+<!--[if IE 8]>
+<html class="ie" lang="ja"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html lang="ja" class="s-navi-search-overlay  toc-style-default">
+	<!--<![endif]-->
+	<head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article#">
+				<meta charset="UTF-8" >
+		<meta name="viewport" content="width=device-width,initial-scale=1.0,user-scalable=no,viewport-fit=cover">
+		<meta name="format-detection" content="telephone=no" >
+		<meta name="referrer" content="no-referrer-when-downgrade"/>
+
+					<meta name="robots" content="index,follow">
+		
+		<link rel="alternate" type="application/rss+xml" title="jiten esbooks.co.jp RSS Feed" href="https://www.esbooks.co.jp/jiten/feed/" />
+		<link rel="pingback" href="https://www.esbooks.co.jp/jiten/xmlrpc.php" >
+		<!--[if lt IE 9]>
+		<script src="https://www.esbooks.co.jp/jiten/wp-content/themes/affinger/js/html5shiv.js"></script>
+		<![endif]-->
+				<meta name='robots' content='max-image-preview:large' />
+	<style>img:is([sizes="auto" i], [sizes^="auto," i]) { contain-intrinsic-size: 3000px 1500px }</style>
+	<title>現在が知りたいなら現在事典！ - jiten esbooks.co.jp</title>
+<link rel='dns-prefetch' href='//ajax.googleapis.com' />
+<link rel='dns-prefetch' href='//cdn.jsdelivr.net' />
+<script type="text/javascript">
+/* <![CDATA[ */
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/16.0.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/16.0.1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.esbooks.co.jp\/jiten\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.8.3"}};
+/*! This file is auto-generated */
+!function(s,n){var o,i,e;function c(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function p(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data),a=(e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0),new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data));return t.every(function(e,t){return e===a[t]})}function u(e,t){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);for(var n=e.getImageData(16,16,1,1),a=0;a<n.data.length;a++)if(0!==n.data[a])return!1;return!0}function f(e,t,n,a){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\udde8\ud83c\uddf6","\ud83c\udde8\u200b\ud83c\uddf6")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!a(e,"\ud83e\udedf")}return!1}function g(e,t,n,a){var r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):s.createElement("canvas"),o=r.getContext("2d",{willReadFrequently:!0}),i=(o.textBaseline="top",o.font="600 32px Arial",{});return e.forEach(function(e){i[e]=t(o,e,n,a)}),i}function t(e){var t=s.createElement("script");t.src=e,t.defer=!0,s.head.appendChild(t)}"undefined"!=typeof Promise&&(o="wpEmojiSettingsSupports",i=["flag","emoji"],n.supports={everything:!0,everythingExceptFlag:!0},e=new Promise(function(e){s.addEventListener("DOMContentLoaded",e,{once:!0})}),new Promise(function(t){var n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+g.toString()+"("+[JSON.stringify(i),f.toString(),p.toString(),u.toString()].join(",")+"));",a=new Blob([e],{type:"text/javascript"}),r=new Worker(URL.createObjectURL(a),{name:"wpTestEmojiSupports"});return void(r.onmessage=function(e){c(n=e.data),r.terminate(),t(n)})}catch(e){}c(n=g(i,f,p,u))}t(n)}).then(function(e){for(var t in e)n.supports[t]=e[t],n.supports.everything=n.supports.everything&&n.supports[t],"flag"!==t&&(n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&n.supports[t]);n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&!n.supports.flag,n.DOMReady=!1,n.readyCallback=function(){n.DOMReady=!0}}).then(function(){return e}).then(function(){var e;n.supports.everything||(n.readyCallback(),(e=n.source||{}).concatemoji?t(e.concatemoji):e.wpemoji&&e.twemoji&&(t(e.twemoji),t(e.wpemoji)))}))}((window,document),window._wpemojiSettings);
+/* ]]> */
+</script>
+<style id='wp-emoji-styles-inline-css' type='text/css'>
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+</style>
+<link rel='stylesheet' id='wp-block-library-css' href='https://www.esbooks.co.jp/jiten/wp-includes/css/dist/block-library/style.min.css?ver=6.8.3' type='text/css' media='all' />
+<style id='classic-theme-styles-inline-css' type='text/css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id='global-styles-inline-css' type='text/css'>
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #eefaff;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--color--soft-red: #e92f3d;--wp--preset--color--light-grayish-red: #fdf0f2;--wp--preset--color--vivid-yellow: #ffc107;--wp--preset--color--very-pale-yellow: #fffde7;--wp--preset--color--very-light-gray: #fafafa;--wp--preset--color--very-dark-gray: #313131;--wp--preset--color--original-color-a: #00B900;--wp--preset--color--original-color-b: #f4fff4;--wp--preset--color--original-color-c: #F3E5F5;--wp--preset--color--original-color-d: #9E9D24;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: .8em;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 1.5em;--wp--preset--font-size--x-large: 42px;--wp--preset--font-size--st-regular: 1em;--wp--preset--font-size--huge: 3em;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+:root :where(.wp-block-pullquote){font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='normalize-css' href='https://www.esbooks.co.jp/jiten/wp-content/themes/affinger/css/normalize.css?ver=1.5.9' type='text/css' media='all' />
+<link rel='stylesheet' id='st_svg-css' href='https://www.esbooks.co.jp/jiten/wp-content/themes/affinger/st_svg/style.css?ver=6.8.3' type='text/css' media='all' />
+<link rel='stylesheet' id='slick-css' href='https://www.esbooks.co.jp/jiten/wp-content/themes/affinger/vendor/slick/slick.css?ver=1.8.0' type='text/css' media='all' />
+<link rel='stylesheet' id='slick-theme-css' href='https://www.esbooks.co.jp/jiten/wp-content/themes/affinger/vendor/slick/slick-theme.css?ver=1.8.0' type='text/css' media='all' />
+<link rel='stylesheet' id='fonts-googleapis-notosansjp-css' href='//fonts.googleapis.com/css?family=Noto+Sans+JP%3A400%2C700&#038;display=swap&#038;subset=japanese&#038;ver=6.8.3' type='text/css' media='all' />
+<link rel='stylesheet' id='style-css' href='https://www.esbooks.co.jp/jiten/wp-content/themes/affinger/style.css?ver=6.8.3' type='text/css' media='all' />
+<link rel='stylesheet' id='child-style-css' href='https://www.esbooks.co.jp/jiten/wp-content/themes/affinger-child/style.css?ver=6.8.3' type='text/css' media='all' />
+<link rel='stylesheet' id='single-css' href='https://www.esbooks.co.jp/jiten/wp-content/themes/affinger/st-rankcss.php' type='text/css' media='all' />
+<link rel='stylesheet' id='st-themecss-css' href='https://www.esbooks.co.jp/jiten/wp-content/themes/affinger/st-themecss-loader.php?ver=6.8.3' type='text/css' media='all' />
+<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js?ver=1.11.3" id="jquery-js"></script>
+<link rel="https://api.w.org/" href="https://www.esbooks.co.jp/jiten/wp-json/" /><link rel="next" href="https://www.esbooks.co.jp/jiten/page/2/" />
+<link rel="icon" href="https://www.esbooks.co.jp/jiten/wp-content/uploads/2023/04/cropped-icon-512x512-1-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://www.esbooks.co.jp/jiten/wp-content/uploads/2023/04/cropped-icon-512x512-1-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://www.esbooks.co.jp/jiten/wp-content/uploads/2023/04/cropped-icon-512x512-1-180x180.png" />
+<meta name="msapplication-TileImage" content="https://www.esbooks.co.jp/jiten/wp-content/uploads/2023/04/cropped-icon-512x512-1-270x270.png" />
+		
+<!-- OGP -->
+
+<meta property="og:type" content="website">
+<meta property="og:title" content="jiten esbooks.co.jp">
+<meta property="og:url" content="https://www.esbooks.co.jp/jiten">
+<meta property="og:description" content="現在が知りたいなら現在事典！">
+<meta property="og:site_name" content="jiten esbooks.co.jp">
+<meta property="og:image" content="https://www.esbooks.co.jp/jiten/wp-content/themes/affinger/images/no-img.png">
+
+
+<!-- /OGP -->
+		
+
+
+<script>
+	(function (window, document, $, undefined) {
+		'use strict';
+
+		var SlideBox = (function () {
+			/**
+			 * @param $element
+			 *
+			 * @constructor
+			 */
+			function SlideBox($element) {
+				this._$element = $element;
+			}
+
+			SlideBox.prototype.$content = function () {
+				return this._$element.find('[data-st-slidebox-content]');
+			};
+
+			SlideBox.prototype.$toggle = function () {
+				return this._$element.find('[data-st-slidebox-toggle]');
+			};
+
+			SlideBox.prototype.$icon = function () {
+				return this._$element.find('[data-st-slidebox-icon]');
+			};
+
+			SlideBox.prototype.$text = function () {
+				return this._$element.find('[data-st-slidebox-text]');
+			};
+
+			SlideBox.prototype.is_expanded = function () {
+				return !!(this._$element.filter('[data-st-slidebox-expanded="true"]').length);
+			};
+
+			SlideBox.prototype.expand = function () {
+				var self = this;
+
+				this.$content().slideDown()
+					.promise()
+					.then(function () {
+						var $icon = self.$icon();
+						var $text = self.$text();
+
+						$icon.removeClass($icon.attr('data-st-slidebox-icon-collapsed'))
+							.addClass($icon.attr('data-st-slidebox-icon-expanded'))
+
+						$text.text($text.attr('data-st-slidebox-text-expanded'))
+
+						self._$element.removeClass('is-collapsed')
+							.addClass('is-expanded');
+
+						self._$element.attr('data-st-slidebox-expanded', 'true');
+					});
+			};
+
+			SlideBox.prototype.collapse = function () {
+				var self = this;
+
+				this.$content().slideUp()
+					.promise()
+					.then(function () {
+						var $icon = self.$icon();
+						var $text = self.$text();
+
+						$icon.removeClass($icon.attr('data-st-slidebox-icon-expanded'))
+							.addClass($icon.attr('data-st-slidebox-icon-collapsed'))
+
+						$text.text($text.attr('data-st-slidebox-text-collapsed'))
+
+						self._$element.removeClass('is-expanded')
+							.addClass('is-collapsed');
+
+						self._$element.attr('data-st-slidebox-expanded', 'false');
+					});
+			};
+
+			SlideBox.prototype.toggle = function () {
+				if (this.is_expanded()) {
+					this.collapse();
+				} else {
+					this.expand();
+				}
+			};
+
+			SlideBox.prototype.add_event_listeners = function () {
+				var self = this;
+
+				this.$toggle().on('click', function (event) {
+					self.toggle();
+				});
+			};
+
+			SlideBox.prototype.initialize = function () {
+				this.add_event_listeners();
+			};
+
+			return SlideBox;
+		}());
+
+		function on_ready() {
+			var slideBoxes = [];
+
+			$('[data-st-slidebox]').each(function () {
+				var $element = $(this);
+				var slideBox = new SlideBox($element);
+
+				slideBoxes.push(slideBox);
+
+				slideBox.initialize();
+			});
+
+			return slideBoxes;
+		}
+
+		$(on_ready);
+	}(window, window.document, jQuery));
+</script>
+
+	<script>
+		(function (window, document, $, undefined) {
+			'use strict';
+
+			$(function(){
+			$('.post h2:not([class^="is-style-st-heading-custom-"]):not([class*=" is-style-st-heading-custom-"]):not(.st-css-no2) , .h2modoki').wrapInner('<span class="st-dash-design"></span>');
+			})
+		}(window, window.document, jQuery));
+	</script>
+
+<script>
+	(function (window, document, $, undefined) {
+		'use strict';
+
+		$(function(){
+			/* 第一階層のみの目次にクラスを挿入 */
+			$("#toc_container:not(:has(ul ul))").addClass("only-toc");
+			/* アコーディオンメニュー内のカテゴリにクラス追加 */
+			$(".st-ac-box ul:has(.cat-item)").each(function(){
+				$(this).addClass("st-ac-cat");
+			});
+		});
+	}(window, window.document, jQuery));
+</script>
+
+<script>
+	(function (window, document, $, undefined) {
+		'use strict';
+
+		$(function(){
+									$('.st-star').parent('.rankh4').css('padding-bottom','5px'); // スターがある場合のランキング見出し調整
+		});
+	}(window, window.document, jQuery));
+</script>
+
+
+
+	<script>
+		(function (window, document, $, undefined) {
+			'use strict';
+
+			$(function() {
+				$('.is-style-st-paragraph-kaiwa').wrapInner('<span class="st-paragraph-kaiwa-text">');
+			});
+		}(window, window.document, jQuery));
+	</script>
+
+	<script>
+		(function (window, document, $, undefined) {
+			'use strict';
+
+			$(function() {
+				$('.is-style-st-paragraph-kaiwa-b').wrapInner('<span class="st-paragraph-kaiwa-text">');
+			});
+		}(window, window.document, jQuery));
+	</script>
+
+<script>
+	/* Gutenbergスタイルを調整 */
+	(function (window, document, $, undefined) {
+		'use strict';
+
+		$(function() {
+			$( '[class^="is-style-st-paragraph-"],[class*=" is-style-st-paragraph-"]' ).wrapInner( '<span class="st-noflex"></span>' );
+		});
+	}(window, window.document, jQuery));
+</script>
+
+
+
+
+			</head>
+	<body data-rsssl=1 class="home blog wp-theme-affinger wp-child-theme-affinger-child front-page" >				<div id="st-ami">
+				<div id="wrapper" class="">
+				<div id="wrapper-in">
+
+					
+
+<header id="">
+	<div id="header-full">
+		<div id="headbox-bg">
+			<div id="headbox">
+
+					<nav id="s-navi" class="pcnone" data-st-nav data-st-nav-type="normal">
+		<dl class="acordion is-active" data-st-nav-primary>
+			<dt class="trigger">
+				<p class="acordion_button"><span class="op op-menu"><i class="st-fa st-svg-menu"></i></span></p>
+
+				
+									<div id="st-mobile-logo"></div>
+				
+				<!-- 追加メニュー -->
+				
+				<!-- 追加メニュー2 -->
+				
+			</dt>
+
+			<dd class="acordion_tree">
+				<div class="acordion_tree_content">
+
+					
+
+												<div class="menu"></div>
+						<div class="clear"></div>
+
+					
+				</div>
+			</dd>
+
+					</dl>
+
+					</nav>
+
+									<div id="header-l">
+						
+						<div id="st-text-logo">
+							
+    
+		
+			<!-- キャプション -->
+			
+									<h1 class="descr sitenametop">
+         		       	現在が知りたいなら現在事典！         		   	</h1>
+				
+			
+			<!-- ロゴ又はブログ名 -->
+			          		  <p class="sitename"><a href="https://www.esbooks.co.jp/jiten/">
+              		                  		    jiten esbooks.co.jp               		           		  </a></p>
+        				<!-- ロゴ又はブログ名ここまで -->
+
+		
+	
+						</div>
+					</div><!-- /#header-l -->
+				
+				<div id="header-r" class="smanone">
+					
+				</div><!-- /#header-r -->
+
+			</div><!-- /#headbox -->
+		</div><!-- /#headbox-bg clearfix -->
+
+		
+		
+		
+		
+			
+
+			<div id="gazou-wide">
+												<div id="st-headerbox">
+						<div id="st-header">
+						</div>
+					</div>
+									</div>
+		
+	</div><!-- #header-full -->
+
+	
+
+
+
+
+
+</header>
+
+					<div id="content-w">
+
+						
+						
+
+<div id="content" class="clearfix">
+	<div id="contentInner">
+		<main >
+			<article>
+
+				<div class="home-post post">
+
+				
+													
+																				
+						<div class="entry-content st-empty">
+																														
+													</div>
+
+						
+						
+						
+				
+				</div>
+
+				<aside>
+
+					
+						<div class="kanren ">
+	
+		
+				
+		<dl class="clearfix">
+			<dt><a href="https://www.esbooks.co.jp/jiten/2981/">
+																			<img width="150" height="150" src="https://www.esbooks.co.jp/jiten/wp-content/uploads/2024/09/2f53e11f59f4e3ff4dbb5bfceaaae329-150x150.png" class="attachment-st_thumb150 size-st_thumb150 wp-post-image" alt="京野ことみ 現在" decoding="async" srcset="https://www.esbooks.co.jp/jiten/wp-content/uploads/2024/09/2f53e11f59f4e3ff4dbb5bfceaaae329-150x150.png 150w, https://www.esbooks.co.jp/jiten/wp-content/uploads/2024/09/2f53e11f59f4e3ff4dbb5bfceaaae329-100x100.png 100w" sizes="(max-width: 150px) 100vw, 150px" />						
+									</a></dt>
+			<dd>
+				
+	
+	<p class="st-catgroup itiran-category">
+		<a href="https://www.esbooks.co.jp/jiten/category/genzai/" title="View all posts in 現在" rel="category tag"><span class="catname st-catid1">現在</span></a>	</p>
+				<h3><a href="https://www.esbooks.co.jp/jiten/2981/">
+						京野ことみの現在					</a></h3>
+
+							<div class="blog_info">
+			<p><span class="pcone"></span></p>
+		</div>
+	
+				
+				
+			</dd>
+		</dl>
+	
+		
+				
+		<dl class="clearfix">
+			<dt><a href="https://www.esbooks.co.jp/jiten/2980/">
+																			<img width="150" height="150" src="https://www.esbooks.co.jp/jiten/wp-content/uploads/2024/09/4e65f3cae7e11663107e183ba26d2964-150x150.png" class="attachment-st_thumb150 size-st_thumb150 wp-post-image" alt="船岡久嗣 現在" decoding="async" srcset="https://www.esbooks.co.jp/jiten/wp-content/uploads/2024/09/4e65f3cae7e11663107e183ba26d2964-150x150.png 150w, https://www.esbooks.co.jp/jiten/wp-content/uploads/2024/09/4e65f3cae7e11663107e183ba26d2964-100x100.png 100w" sizes="(max-width: 150px) 100vw, 150px" />						
+									</a></dt>
+			<dd>
+				
+	
+	<p class="st-catgroup itiran-category">
+		<a href="https://www.esbooks.co.jp/jiten/category/genzai/" title="View all posts in 現在" rel="category tag"><span class="catname st-catid1">現在</span></a>	</p>
+				<h3><a href="https://www.esbooks.co.jp/jiten/2980/">
+						船岡久嗣の現在					</a></h3>
+
+							<div class="blog_info">
+			<p><span class="pcone"></span></p>
+		</div>
+	
+				
+				
+			</dd>
+		</dl>
+	
+		
+				
+		<dl class="clearfix">
+			<dt><a href="https://www.esbooks.co.jp/jiten/2979/">
+																			<img width="150" height="150" src="https://www.esbooks.co.jp/jiten/wp-content/uploads/2024/09/72a8aed37b222eb51d5048cb67b34948-150x150.png" class="attachment-st_thumb150 size-st_thumb150 wp-post-image" alt="小野武彦 現在" decoding="async" srcset="https://www.esbooks.co.jp/jiten/wp-content/uploads/2024/09/72a8aed37b222eb51d5048cb67b34948-150x150.png 150w, https://www.esbooks.co.jp/jiten/wp-content/uploads/2024/09/72a8aed37b222eb51d5048cb67b34948-100x100.png 100w" sizes="(max-width: 150px) 100vw, 150px" />						
+									</a></dt>
+			<dd>
+				
+	
+	<p class="st-catgroup itiran-category">
+		<a href="https://www.esbooks.co.jp/jiten/category/genzai/" title="View all posts in 現在" rel="category tag"><span class="catname st-catid1">現在</span></a>	</p>
+				<h3><a href="https://www.esbooks.co.jp/jiten/2979/">
+						小野武彦の現在					</a></h3>
+
+							<div class="blog_info">
+			<p><span class="pcone"></span></p>
+		</div>
+	
+				
+				
+			</dd>
+		</dl>
+	
+		
+				
+		<dl class="clearfix">
+			<dt><a href="https://www.esbooks.co.jp/jiten/2978/">
+																			<img width="150" height="150" src="https://www.esbooks.co.jp/jiten/wp-content/uploads/2024/09/7e1c007ed593ab58548c17e96d36478e-150x150.png" class="attachment-st_thumb150 size-st_thumb150 wp-post-image" alt="小野伸二 現在" decoding="async" srcset="https://www.esbooks.co.jp/jiten/wp-content/uploads/2024/09/7e1c007ed593ab58548c17e96d36478e-150x150.png 150w, https://www.esbooks.co.jp/jiten/wp-content/uploads/2024/09/7e1c007ed593ab58548c17e96d36478e-100x100.png 100w" sizes="(max-width: 150px) 100vw, 150px" />						
+									</a></dt>
+			<dd>
+				
+	
+	<p class="st-catgroup itiran-category">
+		<a href="https://www.esbooks.co.jp/jiten/category/genzai/" title="View all posts in 現在" rel="category tag"><span class="catname st-catid1">現在</span></a>	</p>
+				<h3><a href="https://www.esbooks.co.jp/jiten/2978/">
+						小野伸二の現在					</a></h3>
+
+							<div class="blog_info">
+			<p><span class="pcone"></span></p>
+		</div>
+	
+				
+				
+			</dd>
+		</dl>
+	
+		
+				
+		<dl class="clearfix">
+			<dt><a href="https://www.esbooks.co.jp/jiten/2977/">
+																			<img width="150" height="150" src="https://www.esbooks.co.jp/jiten/wp-content/uploads/2024/09/e1d856ba989445e84ac22d8c7ea2fb7d-150x150.png" class="attachment-st_thumb150 size-st_thumb150 wp-post-image" alt="豊原功補 現在" decoding="async" srcset="https://www.esbooks.co.jp/jiten/wp-content/uploads/2024/09/e1d856ba989445e84ac22d8c7ea2fb7d-150x150.png 150w, https://www.esbooks.co.jp/jiten/wp-content/uploads/2024/09/e1d856ba989445e84ac22d8c7ea2fb7d-100x100.png 100w" sizes="(max-width: 150px) 100vw, 150px" />						
+									</a></dt>
+			<dd>
+				
+	
+	<p class="st-catgroup itiran-category">
+		<a href="https://www.esbooks.co.jp/jiten/category/genzai/" title="View all posts in 現在" rel="category tag"><span class="catname st-catid1">現在</span></a>	</p>
+				<h3><a href="https://www.esbooks.co.jp/jiten/2977/">
+						豊原功補の現在					</a></h3>
+
+							<div class="blog_info">
+			<p><span class="pcone"></span></p>
+		</div>
+	
+				
+				
+			</dd>
+		</dl>
+	
+		
+				
+		<dl class="clearfix">
+			<dt><a href="https://www.esbooks.co.jp/jiten/2976/">
+																			<img width="150" height="150" src="https://www.esbooks.co.jp/jiten/wp-content/uploads/2024/09/da5888ff4289b32ac26b2a2a1e965dad-150x150.png" class="attachment-st_thumb150 size-st_thumb150 wp-post-image" alt="錦織圭 現在" decoding="async" srcset="https://www.esbooks.co.jp/jiten/wp-content/uploads/2024/09/da5888ff4289b32ac26b2a2a1e965dad-150x150.png 150w, https://www.esbooks.co.jp/jiten/wp-content/uploads/2024/09/da5888ff4289b32ac26b2a2a1e965dad-100x100.png 100w" sizes="(max-width: 150px) 100vw, 150px" />						
+									</a></dt>
+			<dd>
+				
+	
+	<p class="st-catgroup itiran-category">
+		<a href="https://www.esbooks.co.jp/jiten/category/genzai/" title="View all posts in 現在" rel="category tag"><span class="catname st-catid1">現在</span></a>	</p>
+				<h3><a href="https://www.esbooks.co.jp/jiten/2976/">
+						錦織圭の現在					</a></h3>
+
+							<div class="blog_info">
+			<p><span class="pcone"></span></p>
+		</div>
+	
+				
+				
+			</dd>
+		</dl>
+	
+		
+				
+		<dl class="clearfix">
+			<dt><a href="https://www.esbooks.co.jp/jiten/2975/">
+																			<img width="150" height="150" src="https://www.esbooks.co.jp/jiten/wp-content/uploads/2024/09/c503dcc2ec7f952d43f316209b2fde4a-150x150.png" class="attachment-st_thumb150 size-st_thumb150 wp-post-image" alt="前田亜美 現在" decoding="async" srcset="https://www.esbooks.co.jp/jiten/wp-content/uploads/2024/09/c503dcc2ec7f952d43f316209b2fde4a-150x150.png 150w, https://www.esbooks.co.jp/jiten/wp-content/uploads/2024/09/c503dcc2ec7f952d43f316209b2fde4a-100x100.png 100w" sizes="(max-width: 150px) 100vw, 150px" />						
+									</a></dt>
+			<dd>
+				
+	
+	<p class="st-catgroup itiran-category">
+		<a href="https://www.esbooks.co.jp/jiten/category/genzai/" title="View all posts in 現在" rel="category tag"><span class="catname st-catid1">現在</span></a>	</p>
+				<h3><a href="https://www.esbooks.co.jp/jiten/2975/">
+						前田亜美の現在					</a></h3>
+
+							<div class="blog_info">
+			<p><span class="pcone"></span></p>
+		</div>
+	
+				
+				
+			</dd>
+		</dl>
+	
+		
+				
+		<dl class="clearfix">
+			<dt><a href="https://www.esbooks.co.jp/jiten/2974/">
+																			<img width="150" height="150" src="https://www.esbooks.co.jp/jiten/wp-content/uploads/2024/09/57e3742184b71fdcd65b3ffb9aa994e5-150x150.png" class="attachment-st_thumb150 size-st_thumb150 wp-post-image" alt="倉持明日香 現在" decoding="async" srcset="https://www.esbooks.co.jp/jiten/wp-content/uploads/2024/09/57e3742184b71fdcd65b3ffb9aa994e5-150x150.png 150w, https://www.esbooks.co.jp/jiten/wp-content/uploads/2024/09/57e3742184b71fdcd65b3ffb9aa994e5-100x100.png 100w" sizes="(max-width: 150px) 100vw, 150px" />						
+									</a></dt>
+			<dd>
+				
+	
+	<p class="st-catgroup itiran-category">
+		<a href="https://www.esbooks.co.jp/jiten/category/genzai/" title="View all posts in 現在" rel="category tag"><span class="catname st-catid1">現在</span></a>	</p>
+				<h3><a href="https://www.esbooks.co.jp/jiten/2974/">
+						倉持明日香の現在					</a></h3>
+
+							<div class="blog_info">
+			<p><span class="pcone"></span></p>
+		</div>
+	
+				
+				
+			</dd>
+		</dl>
+	
+		
+				
+		<dl class="clearfix">
+			<dt><a href="https://www.esbooks.co.jp/jiten/2973/">
+																			<img width="150" height="150" src="https://www.esbooks.co.jp/jiten/wp-content/uploads/2024/09/d99e5476ef2f3111738d6a600cd5d722-150x150.png" class="attachment-st_thumb150 size-st_thumb150 wp-post-image" alt="新川優愛 現在" decoding="async" srcset="https://www.esbooks.co.jp/jiten/wp-content/uploads/2024/09/d99e5476ef2f3111738d6a600cd5d722-150x150.png 150w, https://www.esbooks.co.jp/jiten/wp-content/uploads/2024/09/d99e5476ef2f3111738d6a600cd5d722-100x100.png 100w" sizes="(max-width: 150px) 100vw, 150px" />						
+									</a></dt>
+			<dd>
+				
+	
+	<p class="st-catgroup itiran-category">
+		<a href="https://www.esbooks.co.jp/jiten/category/genzai/" title="View all posts in 現在" rel="category tag"><span class="catname st-catid1">現在</span></a>	</p>
+				<h3><a href="https://www.esbooks.co.jp/jiten/2973/">
+						新川優愛の現在					</a></h3>
+
+							<div class="blog_info">
+			<p><span class="pcone"></span></p>
+		</div>
+	
+				
+				
+			</dd>
+		</dl>
+	
+		
+				
+		<dl class="clearfix">
+			<dt><a href="https://www.esbooks.co.jp/jiten/2972/">
+																			<img width="150" height="150" src="https://www.esbooks.co.jp/jiten/wp-content/uploads/2024/09/17f2b54dee9e3d7613d8c294cfac3fdf-150x150.png" class="attachment-st_thumb150 size-st_thumb150 wp-post-image" alt="本村弁護士 現在" decoding="async" srcset="https://www.esbooks.co.jp/jiten/wp-content/uploads/2024/09/17f2b54dee9e3d7613d8c294cfac3fdf-150x150.png 150w, https://www.esbooks.co.jp/jiten/wp-content/uploads/2024/09/17f2b54dee9e3d7613d8c294cfac3fdf-100x100.png 100w" sizes="(max-width: 150px) 100vw, 150px" />						
+									</a></dt>
+			<dd>
+				
+	
+	<p class="st-catgroup itiran-category">
+		<a href="https://www.esbooks.co.jp/jiten/category/genzai/" title="View all posts in 現在" rel="category tag"><span class="catname st-catid1">現在</span></a>	</p>
+				<h3><a href="https://www.esbooks.co.jp/jiten/2972/">
+						本村弁護士の現在					</a></h3>
+
+							<div class="blog_info">
+			<p><span class="pcone"></span></p>
+		</div>
+	
+				
+				
+			</dd>
+		</dl>
+	
+		
+				
+		<dl class="clearfix">
+			<dt><a href="https://www.esbooks.co.jp/jiten/2971/">
+																			<img width="150" height="150" src="https://www.esbooks.co.jp/jiten/wp-content/uploads/2024/09/9141431d47ef05158f6576f7b8d02f3e-150x150.png" class="attachment-st_thumb150 size-st_thumb150 wp-post-image" alt="見栄晴 現在" decoding="async" srcset="https://www.esbooks.co.jp/jiten/wp-content/uploads/2024/09/9141431d47ef05158f6576f7b8d02f3e-150x150.png 150w, https://www.esbooks.co.jp/jiten/wp-content/uploads/2024/09/9141431d47ef05158f6576f7b8d02f3e-100x100.png 100w" sizes="(max-width: 150px) 100vw, 150px" />						
+									</a></dt>
+			<dd>
+				
+	
+	<p class="st-catgroup itiran-category">
+		<a href="https://www.esbooks.co.jp/jiten/category/genzai/" title="View all posts in 現在" rel="category tag"><span class="catname st-catid1">現在</span></a>	</p>
+				<h3><a href="https://www.esbooks.co.jp/jiten/2971/">
+						見栄晴の現在					</a></h3>
+
+							<div class="blog_info">
+			<p><span class="pcone"></span></p>
+		</div>
+	
+				
+				
+			</dd>
+		</dl>
+	
+		
+				
+		<dl class="clearfix">
+			<dt><a href="https://www.esbooks.co.jp/jiten/2970/">
+																			<img width="150" height="150" src="https://www.esbooks.co.jp/jiten/wp-content/uploads/2024/09/a5da9758c938321af7848dcaf2812841-150x150.png" class="attachment-st_thumb150 size-st_thumb150 wp-post-image" alt="小沢一敬(スピードワゴン) 現在" decoding="async" srcset="https://www.esbooks.co.jp/jiten/wp-content/uploads/2024/09/a5da9758c938321af7848dcaf2812841-150x150.png 150w, https://www.esbooks.co.jp/jiten/wp-content/uploads/2024/09/a5da9758c938321af7848dcaf2812841-100x100.png 100w" sizes="(max-width: 150px) 100vw, 150px" />						
+									</a></dt>
+			<dd>
+				
+	
+	<p class="st-catgroup itiran-category">
+		<a href="https://www.esbooks.co.jp/jiten/category/genzai/" title="View all posts in 現在" rel="category tag"><span class="catname st-catid1">現在</span></a>	</p>
+				<h3><a href="https://www.esbooks.co.jp/jiten/2970/">
+						小沢一敬(スピードワゴン)の現在					</a></h3>
+
+							<div class="blog_info">
+			<p><span class="pcone"></span></p>
+		</div>
+	
+				
+				
+			</dd>
+		</dl>
+	
+		
+				
+		<dl class="clearfix">
+			<dt><a href="https://www.esbooks.co.jp/jiten/2969/">
+																			<img width="150" height="150" src="https://www.esbooks.co.jp/jiten/wp-content/uploads/2024/09/1ca7abcb7d453cea4d6d26e3c4ea8879-150x150.png" class="attachment-st_thumb150 size-st_thumb150 wp-post-image" alt="松本人志 現在" decoding="async" srcset="https://www.esbooks.co.jp/jiten/wp-content/uploads/2024/09/1ca7abcb7d453cea4d6d26e3c4ea8879-150x150.png 150w, https://www.esbooks.co.jp/jiten/wp-content/uploads/2024/09/1ca7abcb7d453cea4d6d26e3c4ea8879-100x100.png 100w" sizes="(max-width: 150px) 100vw, 150px" />						
+									</a></dt>
+			<dd>
+				
+	
+	<p class="st-catgroup itiran-category">
+		<a href="https://www.esbooks.co.jp/jiten/category/genzai/" title="View all posts in 現在" rel="category tag"><span class="catname st-catid1">現在</span></a>	</p>
+				<h3><a href="https://www.esbooks.co.jp/jiten/2969/">
+						松本人志の現在					</a></h3>
+
+							<div class="blog_info">
+			<p><span class="pcone"></span></p>
+		</div>
+	
+				
+				
+			</dd>
+		</dl>
+	
+		
+				
+		<dl class="clearfix">
+			<dt><a href="https://www.esbooks.co.jp/jiten/2968/">
+																			<img width="150" height="150" src="https://www.esbooks.co.jp/jiten/wp-content/uploads/2024/09/ba3ac3708de4c90ee8e7c72f3a8b6658-150x150.png" class="attachment-st_thumb150 size-st_thumb150 wp-post-image" alt="真弓倫子 現在" decoding="async" srcset="https://www.esbooks.co.jp/jiten/wp-content/uploads/2024/09/ba3ac3708de4c90ee8e7c72f3a8b6658-150x150.png 150w, https://www.esbooks.co.jp/jiten/wp-content/uploads/2024/09/ba3ac3708de4c90ee8e7c72f3a8b6658-300x300.png 300w, https://www.esbooks.co.jp/jiten/wp-content/uploads/2024/09/ba3ac3708de4c90ee8e7c72f3a8b6658-100x100.png 100w, https://www.esbooks.co.jp/jiten/wp-content/uploads/2024/09/ba3ac3708de4c90ee8e7c72f3a8b6658.png 595w" sizes="(max-width: 150px) 100vw, 150px" />						
+									</a></dt>
+			<dd>
+				
+	
+	<p class="st-catgroup itiran-category">
+		<a href="https://www.esbooks.co.jp/jiten/category/genzai/" title="View all posts in 現在" rel="category tag"><span class="catname st-catid1">現在</span></a>	</p>
+				<h3><a href="https://www.esbooks.co.jp/jiten/2968/">
+						真弓倫子の現在					</a></h3>
+
+							<div class="blog_info">
+			<p><span class="pcone"></span></p>
+		</div>
+	
+				
+				
+			</dd>
+		</dl>
+	
+		
+				
+		<dl class="clearfix">
+			<dt><a href="https://www.esbooks.co.jp/jiten/2967/">
+																			<img width="150" height="150" src="https://www.esbooks.co.jp/jiten/wp-content/uploads/2024/09/446f17359d2f6ee3bfbe0a35ecc7b57c-150x150.png" class="attachment-st_thumb150 size-st_thumb150 wp-post-image" alt="中嶋朋子 現在" decoding="async" srcset="https://www.esbooks.co.jp/jiten/wp-content/uploads/2024/09/446f17359d2f6ee3bfbe0a35ecc7b57c-150x150.png 150w, https://www.esbooks.co.jp/jiten/wp-content/uploads/2024/09/446f17359d2f6ee3bfbe0a35ecc7b57c-100x100.png 100w" sizes="(max-width: 150px) 100vw, 150px" />						
+									</a></dt>
+			<dd>
+				
+	
+	<p class="st-catgroup itiran-category">
+		<a href="https://www.esbooks.co.jp/jiten/category/genzai/" title="View all posts in 現在" rel="category tag"><span class="catname st-catid1">現在</span></a>	</p>
+				<h3><a href="https://www.esbooks.co.jp/jiten/2967/">
+						中嶋朋子の現在					</a></h3>
+
+							<div class="blog_info">
+			<p><span class="pcone"></span></p>
+		</div>
+	
+				
+				
+			</dd>
+		</dl>
+	
+		
+				
+		<dl class="clearfix">
+			<dt><a href="https://www.esbooks.co.jp/jiten/2966/">
+																			<img width="150" height="150" src="https://www.esbooks.co.jp/jiten/wp-content/uploads/2024/09/fac539b31b82f90bc45ea75416c2ba03-150x150.png" class="attachment-st_thumb150 size-st_thumb150 wp-post-image" alt="中山忍 現在" decoding="async" srcset="https://www.esbooks.co.jp/jiten/wp-content/uploads/2024/09/fac539b31b82f90bc45ea75416c2ba03-150x150.png 150w, https://www.esbooks.co.jp/jiten/wp-content/uploads/2024/09/fac539b31b82f90bc45ea75416c2ba03-100x100.png 100w" sizes="(max-width: 150px) 100vw, 150px" />						
+									</a></dt>
+			<dd>
+				
+	
+	<p class="st-catgroup itiran-category">
+		<a href="https://www.esbooks.co.jp/jiten/category/genzai/" title="View all posts in 現在" rel="category tag"><span class="catname st-catid1">現在</span></a>	</p>
+				<h3><a href="https://www.esbooks.co.jp/jiten/2966/">
+						中山忍の現在					</a></h3>
+
+							<div class="blog_info">
+			<p><span class="pcone"></span></p>
+		</div>
+	
+				
+				
+			</dd>
+		</dl>
+	
+		
+				
+		<dl class="clearfix">
+			<dt><a href="https://www.esbooks.co.jp/jiten/2965/">
+																			<img width="150" height="150" src="https://www.esbooks.co.jp/jiten/wp-content/uploads/2024/09/02834b3eb168aeb925f5039c62b19c8c-150x150.png" class="attachment-st_thumb150 size-st_thumb150 wp-post-image" alt="北野大 現在" decoding="async" srcset="https://www.esbooks.co.jp/jiten/wp-content/uploads/2024/09/02834b3eb168aeb925f5039c62b19c8c-150x150.png 150w, https://www.esbooks.co.jp/jiten/wp-content/uploads/2024/09/02834b3eb168aeb925f5039c62b19c8c-100x100.png 100w" sizes="(max-width: 150px) 100vw, 150px" />						
+									</a></dt>
+			<dd>
+				
+	
+	<p class="st-catgroup itiran-category">
+		<a href="https://www.esbooks.co.jp/jiten/category/genzai/" title="View all posts in 現在" rel="category tag"><span class="catname st-catid1">現在</span></a>	</p>
+				<h3><a href="https://www.esbooks.co.jp/jiten/2965/">
+						北野大の現在					</a></h3>
+
+							<div class="blog_info">
+			<p><span class="pcone"></span></p>
+		</div>
+	
+				
+				
+			</dd>
+		</dl>
+	
+		
+				
+		<dl class="clearfix">
+			<dt><a href="https://www.esbooks.co.jp/jiten/2964/">
+																			<img width="150" height="150" src="https://www.esbooks.co.jp/jiten/wp-content/uploads/2024/09/648dea05c57a64f5a3650e3611326ae5-150x150.png" class="attachment-st_thumb150 size-st_thumb150 wp-post-image" alt="増田惠子 現在" decoding="async" srcset="https://www.esbooks.co.jp/jiten/wp-content/uploads/2024/09/648dea05c57a64f5a3650e3611326ae5-150x150.png 150w, https://www.esbooks.co.jp/jiten/wp-content/uploads/2024/09/648dea05c57a64f5a3650e3611326ae5-100x100.png 100w" sizes="(max-width: 150px) 100vw, 150px" />						
+									</a></dt>
+			<dd>
+				
+	
+	<p class="st-catgroup itiran-category">
+		<a href="https://www.esbooks.co.jp/jiten/category/genzai/" title="View all posts in 現在" rel="category tag"><span class="catname st-catid1">現在</span></a>	</p>
+				<h3><a href="https://www.esbooks.co.jp/jiten/2964/">
+						増田惠子の現在					</a></h3>
+
+							<div class="blog_info">
+			<p><span class="pcone"></span></p>
+		</div>
+	
+				
+				
+			</dd>
+		</dl>
+	
+		
+				
+		<dl class="clearfix">
+			<dt><a href="https://www.esbooks.co.jp/jiten/2963/">
+																			<img width="150" height="150" src="https://www.esbooks.co.jp/jiten/wp-content/uploads/2024/09/cd22e6776324869dbed36d305f0e1b56-150x150.png" class="attachment-st_thumb150 size-st_thumb150 wp-post-image" alt="小島聖 現在" decoding="async" srcset="https://www.esbooks.co.jp/jiten/wp-content/uploads/2024/09/cd22e6776324869dbed36d305f0e1b56-150x150.png 150w, https://www.esbooks.co.jp/jiten/wp-content/uploads/2024/09/cd22e6776324869dbed36d305f0e1b56-100x100.png 100w" sizes="(max-width: 150px) 100vw, 150px" />						
+									</a></dt>
+			<dd>
+				
+	
+	<p class="st-catgroup itiran-category">
+		<a href="https://www.esbooks.co.jp/jiten/category/genzai/" title="View all posts in 現在" rel="category tag"><span class="catname st-catid1">現在</span></a>	</p>
+				<h3><a href="https://www.esbooks.co.jp/jiten/2963/">
+						小島聖の現在					</a></h3>
+
+							<div class="blog_info">
+			<p><span class="pcone"></span></p>
+		</div>
+	
+				
+				
+			</dd>
+		</dl>
+	
+		
+				
+		<dl class="clearfix">
+			<dt><a href="https://www.esbooks.co.jp/jiten/2962/">
+																			<img width="150" height="150" src="https://www.esbooks.co.jp/jiten/wp-content/uploads/2024/09/784a46f5d3edd36e38cfe3b34eb16265-150x150.png" class="attachment-st_thumb150 size-st_thumb150 wp-post-image" alt="宮崎ますみ(宮崎萬純) 現在" decoding="async" srcset="https://www.esbooks.co.jp/jiten/wp-content/uploads/2024/09/784a46f5d3edd36e38cfe3b34eb16265-150x150.png 150w, https://www.esbooks.co.jp/jiten/wp-content/uploads/2024/09/784a46f5d3edd36e38cfe3b34eb16265-100x100.png 100w" sizes="(max-width: 150px) 100vw, 150px" />						
+									</a></dt>
+			<dd>
+				
+	
+	<p class="st-catgroup itiran-category">
+		<a href="https://www.esbooks.co.jp/jiten/category/genzai/" title="View all posts in 現在" rel="category tag"><span class="catname st-catid1">現在</span></a>	</p>
+				<h3><a href="https://www.esbooks.co.jp/jiten/2962/">
+						宮崎ますみ(宮崎萬純)の現在					</a></h3>
+
+							<div class="blog_info">
+			<p><span class="pcone"></span></p>
+		</div>
+	
+				
+				
+			</dd>
+		</dl>
+	</div>
+							<div class="st-pagelink">
+		<div class="st-pagelink-in">
+		<span aria-current="page" class="page-numbers current">1</span>
+<a class="page-numbers" href="https://www.esbooks.co.jp/jiten/page/2/">2</a>
+<a class="page-numbers" href="https://www.esbooks.co.jp/jiten/page/3/">3</a>
+<span class="page-numbers dots">&hellip;</span>
+<a class="page-numbers" href="https://www.esbooks.co.jp/jiten/page/67/">67</a>
+<a class="next page-numbers" href="https://www.esbooks.co.jp/jiten/page/2/">Next &raquo;</a>		</div>
+	</div>
+					
+				</aside>
+
+					
+
+
+<div class="sns">
+	<ul class="clearfix">
+					<!--ツイートボタン-->
+			<li class="twitter">
+			<a rel="nofollow" onclick="window.open('//twitter.com/intent/tweet?url=https%3A%2F%2Fwww.esbooks.co.jp%2Fjiten&text=%E7%8F%BE%E5%9C%A8%E3%81%8C%E7%9F%A5%E3%82%8A%E3%81%9F%E3%81%84%E3%81%AA%E3%82%89%E7%8F%BE%E5%9C%A8%E4%BA%8B%E5%85%B8%EF%BC%81%20-%20jiten%20esbooks.co.jp&tw_p=tweetbutton', '', 'width=500,height=450'); return false;"><i class="st-fa st-svg-twitter"></i><span class="snstext " >Twitter</span>
+			</a>
+			</li>
+		
+					<!--シェアボタン-->
+			<li class="facebook">
+			<a target="_blank" href="//www.facebook.com/sharer.php?src=bm&u=https%3A%2F%2Fwww.esbooks.co.jp%2Fjiten&t=%E7%8F%BE%E5%9C%A8%E3%81%8C%E7%9F%A5%E3%82%8A%E3%81%9F%E3%81%84%E3%81%AA%E3%82%89%E7%8F%BE%E5%9C%A8%E4%BA%8B%E5%85%B8%EF%BC%81%20-%20jiten%20esbooks.co.jp" rel="nofollow noopener"><i class="st-fa st-svg-facebook"></i><span class="snstext " >Share</span>
+			</a>
+			</li>
+		
+					<!--ポケットボタン-->
+			<li class="pocket">
+			<a rel="nofollow" onclick="window.open('//getpocket.com/edit?url=https%3A%2F%2Fwww.esbooks.co.jp%2Fjiten&title=%E7%8F%BE%E5%9C%A8%E3%81%8C%E7%9F%A5%E3%82%8A%E3%81%9F%E3%81%84%E3%81%AA%E3%82%89%E7%8F%BE%E5%9C%A8%E4%BA%8B%E5%85%B8%EF%BC%81%20-%20jiten%20esbooks.co.jp', '', 'width=500,height=350'); return false;" ><i class="st-fa st-svg-get-pocket"></i><span class="snstext " >Pocket</span>
+			</a></li>
+		
+					<!--はてブボタン-->
+			<li class="hatebu">
+				<a href="//b.hatena.ne.jp/entry/" class="hatena-bookmark-button" data-hatena-bookmark-layout="simple" title="現在が知りたいなら現在事典！ - jiten esbooks.co.jp" rel="nofollow"><i class="st-fa st-svg-hateb"></i><span class="snstext " >Hatena</span>
+	</a><script type="text/javascript" src="//b.st-hatena.com/js/bookmark_button.js" charset="utf-8" async="async"></script>
+
+			</li>
+		
+		
+					<!--LINEボタン-->
+			<li class="line">
+				<a target="_blank" href="//line.me/R/msg/text/?%E7%8F%BE%E5%9C%A8%E3%81%8C%E7%9F%A5%E3%82%8A%E3%81%9F%E3%81%84%E3%81%AA%E3%82%89%E7%8F%BE%E5%9C%A8%E4%BA%8B%E5%85%B8%EF%BC%81%20-%20jiten%20esbooks.co.jp%0Ahttps%3A%2F%2Fwww.esbooks.co.jp%2Fjiten" rel="nofollow noopener"><i class="st-fa st-svg-line" aria-hidden="true"></i><span class="snstext" >LINE</span></a>
+			</li>
+		
+					<!--URLコピーボタン-->
+			<li class="share-copy">
+				<a href="#" rel="nofollow" data-st-copy-text="現在が知りたいなら現在事典！ - jiten esbooks.co.jp / https://www.esbooks.co.jp/jiten"><i class="st-fa st-svg-clipboard"></i><span class="snstext" >URLコピー</span></a>
+			</li>
+			</ul>
+</div> 
+
+
+					
+			</article>
+		</main>
+	</div>
+	<!-- /#contentInner -->
+	
+
+	
+			<div id="side">
+			<aside>
+									<div class="side-topad">
+													<div id="search-2" class="side-widgets widget_search"><div id="search" class="search-custom-d">
+	<form method="get" id="searchform" action="https://www.esbooks.co.jp/jiten/">
+		<label class="hidden" for="s">
+					</label>
+		<input type="text" placeholder="" value="" name="s" id="s" />
+		<input type="submit" value="&#xf002;" class="st-fa" id="searchsubmit" />
+	</form>
+</div>
+<!-- /stinger -->
+</div><div id="categories-2" class="side-widgets widget_categories"><p class="st-widgets-title"><span>カテゴリー</span></p>
+			<ul>
+					<li class="cat-item cat-item-1"><a href="https://www.esbooks.co.jp/jiten/category/genzai/" ><span class="cat-item-label">現在</span></a>
+</li>
+			</ul>
+
+			</div><div id="execphp-2" class="side-widgets widget_execphp">			<div class="execphpwidget"><a href="https://www.esbooks.co.jp/">esbooks.co.jp</a>
+</div>
+		</div>											</div>
+				
+				
+				
+				<div id="scrollad">
+										
+																				</div>
+			</aside>
+		</div>
+		<!-- /#side -->
+	
+
+	
+	</div>
+<!--/#content -->
+</div><!-- /contentw -->
+
+
+
+<footer>
+	<div id="footer">
+		<div id="footer-wrapper">
+			<div id="footer-in">
+				
+									<div id="st-footer-logo-wrapper">
+						<!-- フッターのメインコンテンツ -->
+
+	<div id="st-text-logo">
+
+		
+							<p class="footer-description st-text-logo-top">
+					<a href="https://www.esbooks.co.jp/jiten/">現在が知りたいなら現在事典！</a>
+				</p>
+			
+			<h3 class="footerlogo st-text-logo-bottom">
+				<!-- ロゴ又はブログ名 -->
+				
+											jiten esbooks.co.jp					
+							</h3>
+
+		
+	</div>
+
+
+	<div class="st-footer-tel">
+		
+	</div>
+					</div>
+				
+				<p class="copyr"><small>&copy; 2026 jiten esbooks.co.jp</small></p>			</div>
+		</div><!-- /#footer-wrapper -->
+	</div><!-- /#footer -->
+</footer>
+</div>
+<!-- /#wrapperin -->
+</div>
+<!-- /#wrapper -->
+</div><!-- /#st-ami -->
+<script type="speculationrules">
+{"prefetch":[{"source":"document","where":{"and":[{"href_matches":"\/jiten\/*"},{"not":{"href_matches":["\/jiten\/wp-*.php","\/jiten\/wp-admin\/*","\/jiten\/wp-content\/uploads\/*","\/jiten\/wp-content\/*","\/jiten\/wp-content\/plugins\/*","\/jiten\/wp-content\/themes\/affinger-child\/*","\/jiten\/wp-content\/themes\/affinger\/*","\/jiten\/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch, .no-prefetch a"}}]},"eagerness":"conservative"}]}
+</script>
+<script>
+
+</script><script type="text/javascript" src="https://www.esbooks.co.jp/jiten/wp-content/themes/affinger/vendor/slick/slick.js?ver=1.5.9" id="slick-js"></script>
+<script type="text/javascript" id="base-js-extra">
+/* <![CDATA[ */
+var ST = {"ajax_url":"https:\/\/www.esbooks.co.jp\/jiten\/wp-admin\/admin-ajax.php","expand_accordion_menu":"","sidemenu_accordion":"","is_mobile":""};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.esbooks.co.jp/jiten/wp-content/themes/affinger/js/base.js?ver=6.8.3" id="base-js"></script>
+<script type="text/javascript" src="https://www.esbooks.co.jp/jiten/wp-content/themes/affinger/js/scroll.js?ver=6.8.3" id="scroll-js"></script>
+<script type="text/javascript" src="https://www.esbooks.co.jp/jiten/wp-content/themes/affinger/js/st-copy-text.js?ver=6.8.3" id="st-copy-text-js"></script>
+<script type="text/javascript" src="https://www.esbooks.co.jp/jiten/wp-includes/js/dist/vendor/moment.min.js?ver=2.30.1" id="moment-js"></script>
+<script type="text/javascript" id="moment-js-after">
+/* <![CDATA[ */
+moment.updateLocale( 'ja', {"months":["1\u6708","2\u6708","3\u6708","4\u6708","5\u6708","6\u6708","7\u6708","8\u6708","9\u6708","10\u6708","11\u6708","12\u6708"],"monthsShort":["1\u6708","2\u6708","3\u6708","4\u6708","5\u6708","6\u6708","7\u6708","8\u6708","9\u6708","10\u6708","11\u6708","12\u6708"],"weekdays":["\u65e5\u66dc\u65e5","\u6708\u66dc\u65e5","\u706b\u66dc\u65e5","\u6c34\u66dc\u65e5","\u6728\u66dc\u65e5","\u91d1\u66dc\u65e5","\u571f\u66dc\u65e5"],"weekdaysShort":["\u65e5","\u6708","\u706b","\u6c34","\u6728","\u91d1","\u571f"],"week":{"dow":1},"longDateFormat":{"LT":"","LTS":null,"L":null,"LL":"","LLL":"Y\u5e74n\u6708j\u65e5 g:i A","LLLL":null}} );
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.esbooks.co.jp/jiten/wp-content/themes/affinger/js/st-countdown.js?ver=6.8.3" id="st-countdown-js"></script>
+<script type="text/javascript" id="wp_slimstat-js-extra">
+/* <![CDATA[ */
+var SlimStatParams = {"transport":"ajax","ajaxurl_rest":"https:\/\/www.esbooks.co.jp\/jiten\/wp-json\/slimstat\/v1\/hit","ajaxurl_ajax":"https:\/\/www.esbooks.co.jp\/jiten\/wp-admin\/admin-ajax.php","ajaxurl_adblock":"https:\/\/www.esbooks.co.jp\/jiten\/request\/499edad464ab5288dbdfb91a59aa5383\/","ajaxurl":"https:\/\/www.esbooks.co.jp\/jiten\/wp-admin\/admin-ajax.php","baseurl":"\/jiten","dnt":"noslimstat,ab-item","ci":"YToxOntzOjEyOiJjb250ZW50X3R5cGUiO3M6NDoiaG9tZSI7fQ--.a50d60dde46ed4754ff148940ba028fd","wp_rest_nonce":"8c1e028185"};
+/* ]]> */
+</script>
+<script defer type="text/javascript" src="https://cdn.jsdelivr.net/wp/wp-slimstat/tags/5.3.1/wp-slimstat.min.js" id="wp_slimstat-js"></script>
+					<div id="page-top"><a href="#wrapper" class="st-fa st-svg-angle-up"></a></div>
+		</body></html>
