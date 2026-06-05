@@ -902,9 +902,22 @@ img {
   padding: 40px 0;
 }
 
-.contact-text a {
+.contact-text a,
+.obfuscated-email {
   color: var(--accent);
   font-weight: 600;
+}
+
+.obfuscated-email {
+  user-select: all;
+  -webkit-user-select: all;
+  cursor: pointer;
+}
+
+.obfuscated-email__local,
+.obfuscated-email__at,
+.obfuscated-email__domain {
+  display: inline;
 }
 
 /* ===== Footer ===== */
