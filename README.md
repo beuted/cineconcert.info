@@ -38,7 +38,7 @@ Le site est déployé automatiquement sur GitHub Pages à chaque push sur `main`
 
 ### Domaine personnalisé (optionnel)
 
-Pour servir le site sur `cineconcert.info` au lieu de `beuted.github.io/cineconcert.info` :
+Pour servir le site sur `cineconcert.info` au lieu de `beuted.github.io/cineconcert.info`:
 
 1. **Settings → Pages → Custom domain** : entrez `cineconcert.info`
 2. Chez votre registrar DNS, ajoutez les enregistrements indiqués par GitHub (généralement `A` vers les IP GitHub Pages et/ou `CNAME` vers `beuted.github.io`)
